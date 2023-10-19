@@ -10,7 +10,7 @@ In the dynamic landscape of today's digital world, efficient data management is 
 ## Key Features:
 
 * User-Friendly Login: Datamapper offers a secure and user-friendly login system, ensuring that your data is accessed by authorized individuals, enhancing data security.
-* [Collection Management](./Collection-Management): Create, view, and organize your data collections effortlessly. Whether you're dealing with customer records, inventory data, or any other form of information, Datamapper makes it easy.
+* [Collection Management](./docs/collection-management.md#collection-management): Create, view, and organize your data collections effortlessly. Whether you're dealing with customer records, inventory data, or any other form of information, Datamapper makes it easy.
 * Mapping and Schema Definition: Datamapper simplifies the process of mapping your data and defining schemas, ensuring data integrity and consistency across your organization.
 * Lookup Tables: Create and view lookup tables to enhance data accuracy and improve data retrieval efficiency.
 
