@@ -3,7 +3,7 @@
 <h2 id="key-features-">Key Features:</h2>
 <ul>
 <li>User-Friendly Login: Datamapper offers a secure and user-friendly login system, ensuring that your data is accessed by authorized individuals, enhancing data security.</li>
-<li><a href="./Collection-Management">Collection Management</a>: Create, view, and organize your data collections effortlessly. Whether you&#39;re dealing with customer records, inventory data, or any other form of information, Datamapper makes it easy.</li>
+<li><a href="./Collection-Management.md">Collection Management</a>: Create, view, and organize your data collections effortlessly. Whether you&#39;re dealing with customer records, inventory data, or any other form of information, Datamapper makes it easy.</li>
 <li>Mapping and Schema Definition: Datamapper simplifies the process of mapping your data and defining schemas, ensuring data integrity and consistency across your organization.</li>
 <li>Lookup Tables: Create and view lookup tables to enhance data accuracy and improve data retrieval efficiency.</li>
 </ul>
