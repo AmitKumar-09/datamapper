@@ -1,9 +1,4 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-.page-header, .main-content {
-    text-align: left;
-    margin: 0;
-}
+@import 'jekyll-theme-cayman';
