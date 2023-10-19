@@ -1,3 +1,12 @@
+<nav id="side-menu">
+    <ul>
+        <li><a href="#section1">Section 1</a></li>
+        <li><a href="#section2">Section 2</a></li>
+        <li><a href="#section3">Section 3</a></li>
+    </ul>
+</nav>
+
+
 # Introducing Datamapper: Simplify Your Data Management
 
 In the dynamic landscape of today's digital world, efficient data management is the cornerstone of successful businesses. Meet Datamapper, your all-in-one solution for streamlined data organization and seamless access. With Datamapper, you can revolutionize the way you handle your data by providing robust features for login, collection creation and management, schema definition, and lookup table creation.
