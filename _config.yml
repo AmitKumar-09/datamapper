@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 sidebar:
   - introducing-datamapper
+search_enabled: true
