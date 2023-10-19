@@ -3,7 +3,7 @@ id: introducing-datamapper
 ---
 
 
-# Introducing Datamapper: Simplify Your Data Management
+# Introduction
 
 In the dynamic landscape of today's digital world, efficient data management is the cornerstone of successful businesses. Meet Datamapper, your all-in-one solution for streamlined data organization and seamless access. With Datamapper, you can revolutionize the way you handle your data by providing robust features for login, collection creation and management, schema definition, and lookup table creation.
 
