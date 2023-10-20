@@ -1,5 +1,5 @@
-**Mapping in Datamapper:** Adding Source and Target Schemas to Start Mapping and Transform Your Data
-
+# Mapping in Datamapper
+Adding Source and Target Schemas to Start Mapping and Transform Your Data.
 Mapping in Datamapper is a critical feature that allows you to connect and transform data between different schemas, often a source schema and a target schema. Here's what this involves:
 
 ## Source Schema:
