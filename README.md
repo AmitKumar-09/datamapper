@@ -14,6 +14,8 @@ In the dynamic landscape of today's digital world, efficient data management is 
 * Mapping and Schema Definition: Datamapper simplifies the process of mapping your data and defining schemas, ensuring data integrity and consistency across your organization.
 * Lookup Tables: Create and view lookup tables to enhance data accuracy and improve data retrieval efficiency.
 
+  ![](media/collection.png)
+
 Datamapper empowers you to take control of your data with an intuitive and powerful interface. Say goodbye to data management complexities and hello to efficient and effective data handling. Elevate your data management game with Datamapper!
 
 Ready to experience a new era of data management? Start using Datamapper today and unlock the potential of your data.
